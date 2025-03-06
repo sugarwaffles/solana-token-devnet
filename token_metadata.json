@@ -1,0 +1,7 @@
+{
+    "name": "Test Token",
+    "symbol": "TToken",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/sugarwaffles/solana-token-devnet/0c51ca6cb30a3fa2c65f5fe8514cb118bc12106d/test_coin%20-%20Copy.jpg"
+  }
+  
